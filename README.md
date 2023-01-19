@@ -28,6 +28,10 @@
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=flat-squares&logo=intellij-idea&logoColor=white">
  
  </div>
+ 
+ <br>
+ 
+ ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 <!--
 **KCY9392/KCY9392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
