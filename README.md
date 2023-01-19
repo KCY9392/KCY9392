@@ -31,7 +31,7 @@
  
  <br>
  
- ![footer](https://capsule-render.vercel.app/api?type=waving&&color=30,e96443,904e95&height=100&section=footer&fontSize=90)
+ ![footer](https://capsule-render.vercel.app/api?type=waving&&bg_color=30,e96443,904e95&height=100&section=footer&fontSize=90)
 <!--
 **KCY9392/KCY9392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
