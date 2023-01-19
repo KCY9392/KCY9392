@@ -1,5 +1,5 @@
 
-
+<div align = "center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KCY9392&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
@@ -23,6 +23,8 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=flat-squares&logo=intellij-idea&logoColor=white">
+ 
+ </div>
 <!--
 **KCY9392/KCY9392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
